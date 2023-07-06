@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": " 'JetBrains Mono', 'Cascadia Code', Consolas",
+  "editor.fontFamily": " 'Cascadia Code'",
   "editor.fontLigatures": false,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
@@ -33,7 +33,7 @@
     "[Nord]": {}
   },
   "terminal.integrated.fontSize": 16,
-  "terminal.integrated.fontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
   "terminal.integrated.fontWeight": "600",
   "security.workspace.trust.untrustedFiles": "open",
   "liveServer.settings.donotShowInfoMsg": true,
