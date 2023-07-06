@@ -1,5 +1,5 @@
 {
-  "editor.fontFamily": " 'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.fontFamily": " 'JetBrains Mono', 'Cascadia Code', Consolas",
   "editor.fontLigatures": false,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": "active",
